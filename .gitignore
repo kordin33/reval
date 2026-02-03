@@ -1,0 +1,17 @@
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+/secrets/
+secrets.json
+*.key
+*.pem
+credentials.json
+
+__pycache__/
+*.pyc
+results/cache/
+results/*.log
